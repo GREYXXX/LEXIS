@@ -7,7 +7,7 @@ Local vocabulary study app for CCL / PTE exam preparation. Built with Python + S
 ## Setup
 
 ```bash
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ---
@@ -37,6 +37,6 @@ Word states: `unseen` → `seen` (on first view) → `mastered` or `not_mastered
 ## Tests
 
 ```bash
-pip install pytest
+uv pip install pytest
 pytest tests/ -v
 ```
