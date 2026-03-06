@@ -1,6 +1,9 @@
 # LEXIS
 
 Local vocabulary study app for CCL / PTE exam preparation. Built with Python + Streamlit.
+
+## Vocab PDF
+
 CCL vocab pdf can be downloaded from [CCL˃⩊˂](https://static.cclcat.com/cclcat.vocab.pdf)
 
 ## Setup
